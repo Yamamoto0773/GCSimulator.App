@@ -1,3 +1,5 @@
+[**Go To English Version (Google Translate)**](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fgithub.com%2FYamamoto0773%2FGCSimulator.App%2Fblob%2Fmaster%2FREADME.md)
+
 # GCSimulator.App
 Simulator of GR\*\*VE CO\*\*\*ER
 
