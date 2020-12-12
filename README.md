@@ -48,6 +48,11 @@ json形式で書かれた譜面データを読み取り再生します．
 ## アプリの解説 & 譜面データの作り方
 [解説ページ](../../wiki)
 
+## GCSimulator Twitter
+https://twitter.com/gc_simulator
+
+gcsim創作譜面とかをRTしています．
+
 ## ソースコードについて
 非公開です．
 
