@@ -43,7 +43,7 @@ json形式で書かれた譜面データを読み取り再生します．
 - 本アプリにより発生した，いかなる損害について，一切の責任を負いません．
 
 ## ダウンロード
-[Ver 0.2.9](https://github.com/Yamamoto0773/GCSimulator.App/releases/tag/v0.2.9)
+[Ver 0.2.10](https://github.com/Yamamoto0773/GCSimulator.App/releases/tag/v0.2.10)
 
 ## アプリの解説 & 譜面データの作り方
 [解説ページ](../../wiki)
